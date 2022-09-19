@@ -28,6 +28,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "dev": {
+        "enableMockApi": false
+      }
     }
   }
 }
